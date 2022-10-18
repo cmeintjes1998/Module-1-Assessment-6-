@@ -1,0 +1,45 @@
+#headings{
+    text-align: center;
+    font-size: 60;
+    font-family: Helvetica,sans-serif;
+    text-decoration:underline;
+}
+#paragraphs{
+    text-align: center;
+    margin: auto;
+    
+    width:1000px;
+
+    font-size:20;
+    
+}
+#links a{
+    text-align: center;
+    margin:auto;
+    width:300px;
+    text-decoration: none;
+    font-family: Helvetica,sans-serif;
+    font-weight:800;
+    color:blueviolet;
+    
+    padding-left: 50px;
+}
+#links a:hover{
+    color:blue;
+    
+}
+.gallery2{
+  
+    
+}
+#headings2{
+    text-align: center;
+    font-weight: 600;
+}
+table{
+    border-collapse: collapse;
+
+}
+th{
+    font-weight:800;
+}
